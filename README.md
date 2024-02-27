@@ -1,10 +1,20 @@
 ## Hi there 👋
+I'm a passionate software developer with expertise in Java, Maven, and the Spring Framework. I am really interested in security and making the internet more secure, I love exploring new technologies. In my free time, you can find me coding or continually expanding my knowledge in software development.
 
-<img align="left" alt="Java" width="30px" src="https://cdn.andross.fr/ico/java.ico" /><img align="left" alt="MySQL" width="30px" src="https://cdn.andross.fr/ico/mysql.ico" /><img align="left" alt="HTML" width="30px" src="https://cdn.andross.fr/ico/html5.ico" /><img align="left" alt="CSS" width="30px" src="https://cdn.andross.fr/ico/css3.ico" /><img align="left" alt="JavaScript" width="30px" src="https://cdn.andross.fr/ico/js.ico" /><img align="left" alt="PHP" width="30px" src="https://cdn.andross.fr/ico/php.ico" /><img align="left" alt="Visual Studio" width="30px" src="https://cdn.andross.fr/ico/vs.ico" />
-<br />
+### Skills
+- Languages : Java 8/17/21, HTML/CSS/JS, Dart, VB.NET, C#
+- Application Security : Injections, TLS/SSL, Cryptography (Asymmetric, Symmetric, Hash, Signature), Authentication (SAML2, OAuth2/OIDC), Authorization, CSRF, SCA/SAST, CVE...
+- Frameworks: Spring Boot, Flutter, Bootstrap
+- DevOps : CI/CD
+- Tools : Maven, Git, Gitlab
+- Cloud : AWS
 
-## Code Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andross96&layout=compact" />
+### Projects
+- Minecraft Community : [BanItem](https://www.spigotmc.org/resources/banitem-1-7.67701/) - 60k downloads
+- More incoming !
 
-## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andross96" />
+### Connect
+- [Linkedin](https://www.linkedin.com/in/andross96/)
+- Discord: andross96
+
+
