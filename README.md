@@ -3,7 +3,7 @@ I'm a passionate software developer with expertise in Java, Maven, and the Sprin
 
 ### Skills
 - Languages : Java 8/17/21, HTML/CSS/JS, Dart, VB.NET, C#
-- Application Security : Injections, TLS/SSL, Cryptography (Asymmetric, Symmetric, Hash, Signature), Authentication (SAML2, OAuth2/OIDC), Authorization, CSRF, SCA/SAST, CVE...
+- Application Security : Injections, TLS/SSL, Cryptography (Asymmetric, Symmetric, Hash, Signature), Authentication (SAML2, OAuth2/OIDC), Authorization, CORS, CSRF, SCA/SAST...
 - Frameworks: Spring Boot, Flutter, Bootstrap
 - DevOps : CI/CD
 - Tools : Maven, Git, Gitlab
